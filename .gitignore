@@ -1,0 +1,7 @@
+Debug/
+Release/
+.vs/
+SearchSystem.sln
+SearchSystem.vcxproj
+SearchSystem.vcxproj.filters
+SearchSystem.vcxproj.user
